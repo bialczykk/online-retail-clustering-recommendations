@@ -1,2 +1,4 @@
 # online-retail-clustering-recommendations
-Hello Linus, this code is for you
+### Project Description
+Assignment for Machine Learning Course at Nova SBE MSc in Business Analytics.
+Topics covered: Exploratory data analysis, Data Cleaning, Clustering, Dimensionality Reduction, Recommendation Systems (Collaborative Filtering)
